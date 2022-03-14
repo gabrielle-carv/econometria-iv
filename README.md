@@ -1,2 +1,4 @@
-# econometria-iv
-Código no R, calculando o beta gmm, com heterocedasticidade e com homocedasticidade.
+# IV MODEL
+
+The βˆGMM estimator under homocedasticity and under heteroscedasticity.
+
